@@ -1,4 +1,46 @@
-.loading {
-  font-family: Verdana, Arial, Helvetica, sans-serif;;
+.loadingMsg,.broken {
+  /*font-family: Verdana, Arial, Helvetica, sans-serif;;*/
+  /*font-size: 100px;*/
+  color: transparent;
   font-size: 100px;
+  font-family: Londrina Sketch;
+  /*font-style: italic;*/
+  text-decoration: none;
+  letter-spacing: .06em;
+  text-shadow:
+    /* thin yellow glow */
+  0 0 .02em hsl(112, 100%, 51%),
+    /* reflected thin yellow glow */
+  .04em .02em .05em hsla(118, 100%, 62%, 0.8),
+    /* red glow */
+  .03em .03em .1em #1e2aff,
+  .03em .03em .1em #3116ff,
+  -.03em .03em .1em #2823ff,
+  -.03em -.03em .1em #1531ff,
+    /* more red glow */
+  .03em .03em .8em #70ddff,
+  .03em -.03em .8em #59f5ff,
+  -.03em .03em .8em #70e7ff,
+  -.03em -.03em .8em #74f3ff;
 }
+
+.broken {
+
+  text-shadow:
+    /* thin orange glow */
+  0 0 .02em hsla(128, 100%, 68%, 0.6),
+    /* reflected thin orange glow */
+  .04em .02em .05em hsla(129, 100%, 63%, 0.3),
+    /* faint red glow */
+  .03em .03em .1em hsla(231, 100%, 50%, 0.3),
+  .03em .03em .1em hsla(239, 100%, 54%, 0.3),
+  -.03em .03em .1em hsla(233, 100%, 55%, 0.3),
+  -.03em -.03em .1em hsla(226, 100%, 53%, 0.3);
+}
+
+#ad{
+  margin-right: -25px;
+  margin-left: -25px;
+}
+
+
