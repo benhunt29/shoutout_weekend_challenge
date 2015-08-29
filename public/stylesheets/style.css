@@ -43,4 +43,16 @@
   margin-left: -25px;
 }
 
+#shoutOutsDiv {
+  color: green;
+  width: 100%;
+  height: 100%;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  background-color: rgba(128, 128, 128, 0.51);
+}
+
+#subText{
+  letter-spacing: .2em;
+}
 

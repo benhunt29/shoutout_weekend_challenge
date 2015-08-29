@@ -1,0 +1,92 @@
+[
+  {
+    "student": "Alan",
+    "shoutOut": "Thanks to Allan for his unique brand of humor and ability to lighten the mood!",
+    "studentId": 0
+  },
+  {
+    "student": "Ben",
+    "shoutOut": "It's been great working with Ben the last few days. He approaches problems in a similar fashion to myself. When something doesn't work, continuously iterate until you find the solution. It isn't elegant but it gets the job done. I've enjoyed seeing his iteration practices though. He tends toward employing logic and tinkering slightly with the code whereas I quickly turn to Google / documentation / Stack for hints. I think we work pretty well together.",
+    "studentId": 1
+  },
+  {
+    "student": "Brendan",
+    "shoutOut": "Thanks to Brendan for providing assistance and explaining some of the topics discussed today.",
+    "studentId": 2
+  },
+  {
+    "student": "Elizabeth",
+    "shoutOut": "Thanks to Liz. She's always so cheerful and nice. And she cracks me up. Now that I'm in a desk pod with her, I'll probably be laughing 50% more each day.",
+    "studentId": 3
+  },
+  {
+    "student": "Garrett",
+    "shoutOut": "Thanks Garrett! You always cheer me up and make me laugh. You are also sweet to check in with me and always offer to help.",
+    "studentId": 4
+  },
+  {
+    "student": "Jacob",
+    "shoutOut": "Jake is always willing to help and is EXTREMELY knowledgeable. He never judges questions and is very empathetic",
+    "studentId": 5
+  },
+  {
+    "student": "James",
+    "shoutOut": "James is always friendly and helpful. He assisted me today when I was spinning my wheels. He is also very sensitive about not telling you the answer but instead helping you uncover it.",
+    "studentId": 6
+  },
+  {
+    "student": "Jason S",
+    "shoutOut": "Thanks to Jason S for being a patient teacher",
+    "studentId": 7
+  },
+  {
+    "student": "Jason N",
+    "shoutOut":  "Jason helped with some confusing things today.",
+    "studentId": 8
+  },
+  {
+    "student": "Kamie",
+    "shoutOut": "Thanks to Kamie for pushing me to think about problems in new ways",
+    "studentId": 9
+  },
+  {
+    "student": "Katie",
+    "shoutOut": "Katie rocked my world today. She is a really good communicator and I learned a lot from working with her.",
+    "studentId": 10
+  },
+  {
+    "student": "Kate",
+    "shoutOut": "Thanks to Kate for being such a calming influence in our group!",
+    "studentId": 11
+  },
+  {
+    "student": "Kim",
+    "shoutOut": "Kim for being supportive and inclusive and letting me practice trying to help when I figured things out quicker and for helping me see where I had missed things by going too fast. Also for just generally being really fun to talk to!",
+    "studentId": 12
+  },
+  {
+    "student": "Madeline",
+    "shoutOut": "Thanks to Madeleine for asking questions that are helpful and I wouldn’t think of myself during lecture",
+    "studentId": 13
+  },
+  {
+    "student": "Martha",
+    "shoutOut": "Whenever I write *Martha*, it means that Martha helped me again. Martha was also helpful in bringing people together in the group, and getting everyone involved",
+    "studentId": 14
+  },
+  {
+    "student": "Matt",
+    "shoutOut": "HUGE shoutout to Matt, he helped me after hours",
+    "studentId": 15
+  },
+  {
+    "student": "Shawn",
+    "shoutOut": "shout out to shawn for hooking me up in my time of need with the jquery .empty() and .remove() methods, as i was stuck.",
+    "studentId": 16
+  },
+  {
+    "student": "Vas",
+    "shoutOut": "Thanks to Vas for being very helpful and asking great questions",
+    "studentId": 17
+  }
+]
