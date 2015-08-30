@@ -69,14 +69,36 @@
   letter-spacing: .2em;
 }
 
-.well{
+#shoutOutsDiv{
   min-height: 0px;
   min-width: 0px;
   height:100%;
   width:100%;
+  margin-top: 50px;
 }
 
 #shoutOutsPanel{
-  margin-top:100px
+  margin-top:50px;
+}
+
+#settingsDiv{
+  height:200px
+}
+
+#topHeader {
+  position: relative;
+}
+
+#settingsButton {
+  margin-top: 50px;
+}
+
+#settingsWell {
+  margin-top:50px;
+}
+
+#finalColor,#initColor{
+  background-color: transparent;
+  border: none;
 }
 
