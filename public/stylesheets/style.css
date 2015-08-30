@@ -1,3 +1,16 @@
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#loadingMsg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .loadingMsg,.broken {
   /*font-family: Verdana, Arial, Helvetica, sans-serif;;*/
   /*font-size: 100px;*/
@@ -61,5 +74,9 @@
   min-width: 0px;
   height:100%;
   width:100%;
+}
+
+#shoutOutsPanel{
+  margin-top:100px
 }
 
