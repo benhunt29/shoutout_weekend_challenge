@@ -56,3 +56,10 @@
   letter-spacing: .2em;
 }
 
+.well{
+  min-height: 0px;
+  min-width: 0px;
+  height:100%;
+  width:100%;
+}
+
